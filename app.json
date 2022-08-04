@@ -108,6 +108,14 @@
          "value": "1100231654"
       }
    },
+   "API_ID": {
+            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
    "keywords": [
       "telegram",
       "group",
