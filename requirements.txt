@@ -25,3 +25,5 @@ wikipedia
 pyowm
 tabulate
 parsel
+pyrogram==1.4.16
+tgcrypto
